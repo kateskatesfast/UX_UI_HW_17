@@ -1,0 +1,48 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+    
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 5px 10 px #f5f5f5;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #373738;
+    color: white;
+    padding: 25px;
+}
+
+footer.ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 25px;
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
